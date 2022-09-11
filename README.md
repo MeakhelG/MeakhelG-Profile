@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MeakhelG
-- 👀 I’m interested in music and informatics
-- 🌱 I’m currently learning piano, C++, Phyton, and HTML-CSS, I also wanted to learn Ruby, JavaScript, and Node.js
-- 💞️ I’m looking to collaborate on State University of Surabaya
+- 👀 I’m interested in informatics
+- 🌱 I’m currently learning another dimensional language
+- 💞️ I’m looking to collaborate on somethin
 - 📫 How to reach me, u can't
 
 <!---
